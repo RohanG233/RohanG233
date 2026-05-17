@@ -1,7 +1,7 @@
 
 # Rohan G.
 
-**Full-stack engineer · distributed systems · secure backend infra**
+**Aspiring Full-stack engineer**
 
 → Building production-grade systems with real auth, real tests, and real architecture.  
 → Open to remote roles · Full-stack / Backend

@@ -1,22 +1,43 @@
-<h1 align="center">Hi 👋, I'm Rohan G</h1>
-<h3 align="center">Developer from India, passionate about building applications and open to junior roles</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rohang233&label=Profile%20views&color=0e75b6&style=flat" alt="rohang233" /> </p>
+# Rohan G.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rohang233" alt="rohang233" /></a> </p>
+**Full-stack engineer · distributed systems · secure backend infra**
 
-- 🔭 I’m currently working on **Code Reviewer**
+→ Building production-grade systems with real auth, real tests, and real architecture.  
+→ Open to remote roles · Full-stack / Backend
 
-- 🌱 I’m currently learning **Prompt Engineering, LLM**
+`Node.js` `Express` `React` `MongoDB` `Flask` `JWT / Auth` `REST APIs` `Python` `Deep Learning`
 
-- 📫 How to reach me **gangadharanvseon40@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://leetcode.com/u/E6JKUSFLPJ/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rohan" height="30" width="40" /></a>
-</p>
+## Featured Projects
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+### 🔗 Linkly — Distributed URL Shortener
+Production URL shortener with distributed auth/app servers, JWT sessions, readiness probes, and a full Jest + Supertest test suite.  
+**Stack:** Node.js · Express · MongoDB · JWT · Jest
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Rohang233&" alt="Rohang233" /></p>
+### 🔐 AccessGuard — Multi-Factor Biometric Auth
+Multi-factor auth platform: face recognition (dlib ResNet embeddings), voice auth (MFCC cosine similarity), AES-encrypted biometric storage.  
+**Stack:** Flask · dlib · OpenCV · AES-EAX · MongoDB
+
+---
+
+## Stats
+
+| 200+ DSA problems | B.E. CS — CGPA 8.79/10 | Open to remote |
+|---|---|---|
+
+---
+
+## Currently
+
+🟢 Building: **AI Code Reviewer** — LLM-powered code analysis tool  
+📖 Exploring: **Prompt Engineering · LLM Systems · RAG**
+
+---
+
+## Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/u/E6JKUSFLPJ/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:gangadharanvseon40@gmail.com)

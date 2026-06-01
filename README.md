@@ -31,13 +31,13 @@ Multi-factor auth platform: face recognition (dlib ResNet embeddings), voice aut
 
 ## Currently
 
-🟢 Building: **AI Code Reviewer** — LLM-powered code analysis tool  
-📖 Exploring: **Prompt Engineering · LLM Systems · RAG**
+🟢 Building: **Fifa 2026 Match Predictor**  
+📖 Exploring: **System Design**
 
 ---
 
 ## Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohan-g-90731a246)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/u/E6JKUSFLPJ/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:gangadharanvseon40@gmail.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:rohang13102002@gmail.com)

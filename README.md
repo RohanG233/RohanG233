@@ -30,7 +30,7 @@ Multi-factor auth platform: face recognition (dlib ResNet embeddings), voice aut
 
 ## Stats
 
-| 200+ DSA problems | B.E. CS — CGPA 8.79/10 | Open to SWE/Backend |
+| 200+ DSA problems | B.E. CS — CGPA 8.85/10 | Open to SWE/Backend |
 |---|---|---|
 
 ---

@@ -47,4 +47,4 @@ Multi-factor auth platform: face recognition (dlib ResNet embeddings), voice aut
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohan-g-90731a246)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/u/E6JKUSFLPJ/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:rohang13102002@gmail.com)
-[![Website](https://img.shields.io/badge/Website-Live-brightgreen?style=for-the-badge)](https://rohan.bolt.host)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge)](https://rohan.bolt.host)

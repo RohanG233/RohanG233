@@ -1,7 +1,7 @@
 
 # Rohan G.
 
-**Aspiring Full-stack engineer**
+**Aspiring Full-stack engineer and AI Engineer**
 
 → Building production-grade systems with real auth, real tests, and real architecture.  
 → Open to remote roles · Full-stack / Backend
